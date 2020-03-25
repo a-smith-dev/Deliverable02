@@ -1,0 +1,13 @@
+C:\Users\Andy Smith\source\repos\Deliverable02\Deliverable02\bin\Debug\netcoreapp3.1\Deliverable02.exe
+C:\Users\Andy Smith\source\repos\Deliverable02\Deliverable02\bin\Debug\netcoreapp3.1\Deliverable02.deps.json
+C:\Users\Andy Smith\source\repos\Deliverable02\Deliverable02\bin\Debug\netcoreapp3.1\Deliverable02.runtimeconfig.json
+C:\Users\Andy Smith\source\repos\Deliverable02\Deliverable02\bin\Debug\netcoreapp3.1\Deliverable02.runtimeconfig.dev.json
+C:\Users\Andy Smith\source\repos\Deliverable02\Deliverable02\bin\Debug\netcoreapp3.1\Deliverable02.dll
+C:\Users\Andy Smith\source\repos\Deliverable02\Deliverable02\bin\Debug\netcoreapp3.1\Deliverable02.pdb
+C:\Users\Andy Smith\source\repos\Deliverable02\Deliverable02\obj\Debug\netcoreapp3.1\Deliverable02.csprojAssemblyReference.cache
+C:\Users\Andy Smith\source\repos\Deliverable02\Deliverable02\obj\Debug\netcoreapp3.1\Deliverable02.AssemblyInfoInputs.cache
+C:\Users\Andy Smith\source\repos\Deliverable02\Deliverable02\obj\Debug\netcoreapp3.1\Deliverable02.AssemblyInfo.cs
+C:\Users\Andy Smith\source\repos\Deliverable02\Deliverable02\obj\Debug\netcoreapp3.1\Deliverable02.dll
+C:\Users\Andy Smith\source\repos\Deliverable02\Deliverable02\obj\Debug\netcoreapp3.1\Deliverable02.pdb
+C:\Users\Andy Smith\source\repos\Deliverable02\Deliverable02\obj\Debug\netcoreapp3.1\Deliverable02.csproj.CoreCompileInputs.cache
+C:\Users\Andy Smith\source\repos\Deliverable02\Deliverable02\obj\Debug\netcoreapp3.1\Deliverable02.genruntimeconfig.cache
